@@ -1,0 +1,2 @@
+La planta presenta un consumo anual de 4.600 MWh, con demanda concentrada en horas diurnas (07:00 a 18:00), lo que favorece el autoconsumo directo de la energía solar. El sistema de 1,2 MWp cubrirá cerca del 36,5% de las necesidades eléctricas.
+La generación anual estimada es de 1.680 MWh. El mes de mayor producción es diciembre (151,5 MWh, con 5,85 kWh/m²/día) y el de menor producción es junio (122,4 MWh, con 4,70 kWh/m²/día). La producción mensual se detalla en la tabla de producción de 12 meses.
